@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'RedHatDisplay';
+  src: url('../assets/fonts/RedHatDisplay-VariableFont_wght.woff') format('woff');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'RedHatDisplay';
+  src: url('../assets/fonts/RedHatDisplay-SemiBold.woff') format('woff');
+  font-style: normal;
+  font-weight: 600;
+}
