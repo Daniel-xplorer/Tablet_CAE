@@ -1,6 +1,6 @@
 
 const getData = async () => {
-    const data = fetch ('http://localhost:3001/procedures/getTableHtml')
+    const data = fetch ('https://xdbackendprod.azurewebsites.net/procedures/getTableHtml')
     .then(response => response.json())
     .then(data => {
         console.log(data);
